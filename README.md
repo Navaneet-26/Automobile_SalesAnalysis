@@ -25,6 +25,7 @@ using interactive dropdowns powered by Dash callbacks.
 - Dash
 - Plotly
 - Pandas
+- Folium
 
 ---
 
@@ -94,7 +95,8 @@ Entry-level vehicles show higher sensitivity to economic changes.
 
 ### 🌎 9. Regional Sales Distribution
 
-Sales distribution across different U.S. branches varies during recession, highlighting regional demand differences.
+Sales distribution across 4 different U.S. branches varies during recession, highlighting regional demand differences with help of folium
+![alt text](image.png)
 
 ---
 
