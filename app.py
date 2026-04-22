@@ -8,7 +8,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load dataset
-data = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/d51iMGfp_t0QpO30Lym-dw/automobile-sales.csv')
+data = pd.read_csv('automobile_sales.csv')
 
 # Initialize app
 app = dash.Dash(__name__)
